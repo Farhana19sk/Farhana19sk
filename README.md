@@ -2,7 +2,7 @@
 
 # 🛠️ Tech Stack
 
-Languages: Python, SQL, Java, C
+Languages: Python, SQL, C
 
 Data Analytics: Pandas, NumPy, Matplotlib, Power BI, Excel
 
