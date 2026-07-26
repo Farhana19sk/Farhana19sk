@@ -1,3 +1,18 @@
+Hi there, I'm Shaik Farhana! 👋
+🛠️ Tech Stack
+Languages: Python, SQL, Java, C
+Data Analytics: Pandas, NumPy, Matplotlib, Power BI, Excel
+Database: MySQL, SQLite
+Tools: Git, GitHub, Jupyter Notebook, VS Code
+📂 Featured Projects
+📈 Sales Data Analysis Dashboard
+📊 Financial Risk Prediction Analysis
+🤖 Machine Learning Projects
+📉 Exploratory Data Analysis (EDA)
+📫 Connect with Me
+💼 LinkedIn: https://www.linkedin.com/in/shaik-farhana-12140a367/
+💻 GitHub: https://github.com/Farhana19sk
+
 # 💫 About Me:
  Hi, I'm Shaik Farhana!<br><br>🎓 Final Year B.Tech Student (Computer Science and Engineering)<br><br>📊 Aspiring Data Analyst | Data Analytics Enthusiast<br><br>💻 Skills: Python • SQL • Power BI • Excel • Data Visualization<br><br>📈 Passionate about transforming data into meaningful insights and supporting data-driven decision-making.<br><br>🚀 Building real-world projects in Data Analytics, Business Intelligence, and Machine Learning while continuously enhancing my technical skills.<br><br>🌱 Currently exploring Data Analysis, Data Visualization, and Business Intelligence tools.<br><br>🤝 Open to internships, entry-level opportunities, and collaborations in Data Analytics.<br><br>Turning data into actionable insights, one project at a time.📊✨<br><br>I love finding hidden trends and correlations in every public datasets!
 
