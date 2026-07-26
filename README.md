@@ -1,6 +1,6 @@
-#Hi there, I'm Shaik Farhana! 👋
+# Hi there, I'm Shaik Farhana! 👋
 
-#🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 Languages: Python, SQL, Java, C
 
@@ -10,7 +10,7 @@ Database: MySQL, SQLite
 
 Tools: Git, GitHub, Jupyter Notebook, VS Code
 
-#📂 Featured Projects
+# 📂 Featured Projects
 
 📈 Sales Data Analysis Dashboard
 
@@ -20,7 +20,7 @@ Tools: Git, GitHub, Jupyter Notebook, VS Code
 
 📉 Exploratory Data Analysis (EDA)
 
-#📫 Connect with Me
+# 📫 Connect with Me
 
 💼 LinkedIn: https://www.linkedin.com/in/shaik-farhana-12140a367/
 
