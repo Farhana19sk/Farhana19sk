@@ -22,7 +22,7 @@ Tools: Git, GitHub, Jupyter Notebook, VS Code
 
 # 📫 Connect with Me
 
-💼 LinkedIn: https://www.linkedin.com/in/shaik-farhana-12140a367/
+💼 LinkedIn: https://www.linkedin.com/in/shaik-farhana-119f/
 
 💻 GitHub: https://github.com/Farhana19sk
 
